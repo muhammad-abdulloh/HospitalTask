@@ -7,7 +7,7 @@ namespace HospitalTask.PatientInfo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           
             PatientInfo patientInfo = new PatientInfo();
 
             patientInfo.AddPatient();
